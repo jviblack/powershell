@@ -1,0 +1,3 @@
+$sumaarrays = $enteros + $letras
+
+$sumaarrays
