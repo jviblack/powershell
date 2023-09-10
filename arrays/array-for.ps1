@@ -2,5 +2,5 @@
 
 $ciudades = @("Madrid","Murcia","Huelva","Oviedo")
 for ($i=0; $i -lt $ciudades.Length; $i++){
-    Write-Host $i
+    Write-Host $ciudades[$i]
 }
