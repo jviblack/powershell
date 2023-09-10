@@ -1,0 +1,1 @@
+$enteros -join '-'
