@@ -1,8 +1,10 @@
+#modo administrador
+
 Get-ExecutionPolicy
 Set-ExecutionPolicy Unrestricted
 
 Install-Module ExchangeOnlineManagement
 
-connect-exchangeonline
+Connect-ExchangeOnline
 
-get-mailbox
+Get-MailBox
